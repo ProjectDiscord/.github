@@ -32,7 +32,7 @@ We encourage and appreciate contributions from the community to make the Project
 
 ## License
 
-Each bot within Project Discord is released under the [MIT License](https://github.com/ProjectDiscord/.github/LICENSE) to provide you with the freedom to use, modify, and distribute the codebase in accordance with the terms of the license.
+Each bot within Project Discord is released under the [MIT License](https://github.com/ProjectDiscord/.github/blob/main/LICENSE) to provide you with the freedom to use, modify, and distribute the codebase in accordance with the terms of the license.
 
 ## Support
 
