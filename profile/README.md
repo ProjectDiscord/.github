@@ -28,7 +28,7 @@ To get started with any of the bots developed under Project Discord, follow thes
 
 ## Contributing
 
-We encourage and appreciate contributions from the community to make the Project Discord bots even better. If you'd like to contribute, please follow the [contribution guidelines](https://github.com/ProjectDiscord/.github/profile/CONTRIBUTING.md) of the specific bot's repository.
+We encourage and appreciate contributions from the community to make the Project Discord bots even better. If you'd like to contribute, please follow the [contribution guidelines](https://github.com/ProjectDiscord/.github/blob/main/profile/CONTRIBUTING.md) of the specific bot's repository.
 
 ## License
 
